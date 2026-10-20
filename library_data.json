@@ -1,0 +1,162 @@
+{
+    "101": {
+        "book_id": "101",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "102": {
+        "book_id": "102",
+        "title": "1984",
+        "author": "George Orwell",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "103": {
+        "book_id": "103",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "is_issued": true,
+        "issue_date": null,
+        "due_date": null
+    },
+    "104": {
+        "book_id": "104",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "105": {
+        "book_id": "105",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "106": {
+        "book_id": "106",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "is_issued": true,
+        "issue_date": null,
+        "due_date": null
+    },
+    "107": {
+        "book_id": "107",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "108": {
+        "book_id": "108",
+        "title": "Jane Eyre",
+        "author": "Charlotte Bront\u00c3\u00ab",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "109": {
+        "book_id": "109",
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "110": {
+        "book_id": "110",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "is_issued": true,
+        "issue_date": null,
+        "due_date": null
+    },
+    "111": {
+        "book_id": "111",
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "112": {
+        "book_id": "112",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "113": {
+        "book_id": "113",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "114": {
+        "book_id": "114",
+        "title": "Wuthering Heights",
+        "author": "Emily Bront\u00c3\u00ab",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "115": {
+        "book_id": "115",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "is_issued": true,
+        "issue_date": null,
+        "due_date": null
+    },
+    "116": {
+        "book_id": "116",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "117": {
+        "book_id": "117",
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "is_issued": true,
+        "issue_date": "2026-10-20",
+        "due_date": "2026-11-03"
+    },
+    "118": {
+        "book_id": "118",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "119": {
+        "book_id": "119",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    },
+    "120": {
+        "book_id": "120",
+        "title": "The Odyssey",
+        "author": "Homer",
+        "is_issued": false,
+        "issue_date": null,
+        "due_date": null
+    }
+}
