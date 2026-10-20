@@ -8,7 +8,6 @@ class DataHandler:
 
     def load_books(self):
         books = {}
-        # Assumes 'library_data.json' ALREADY exists in your folder
         with open(self.filename, "r") as file:
             data = json.load(file)
             for b_id, b_info in data.items():
@@ -21,7 +20,6 @@ class DataHandler:
         return books
 
     def save_books(self, books):
-        """Saves current state back to your JSON file."""
         with open(self.filename, "w") as file:
             data = {b_id: book.to_dict() for b_id, book in books.items()}
             json.dump(data, file, indent=4)
